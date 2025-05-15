@@ -76,12 +76,12 @@ button:hover {
 }
 
 .equals {
-    background: rgba(76, 175, 80, 0.5);
+    background: rgb(247, 164, 0);
     color: #fff;
 }
 
 .equals:hover {
-    background: rgba(76, 175, 80, 0.7);
+    background: rgb(255, 140, 0);
 }
 
 @media (max-width: 400px) {
